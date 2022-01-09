@@ -1,2 +1,24 @@
+/*--Variables--*/
 @import "./utils/variables";
+
+/*--Base--*/
 @import "./base/reset";
+
+/*--Cjmponents--*/
+@import "./components/modal";
+@import "./components/logo-header";
+@import "./components/logo-footer";
+
+
+
+/*--Layout--*/
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/advantage";
+@import "./layout/works";
+@import "./layout/team";
+@import "./layout/clients";
+@import "./layout/footer";
+@import "./layout/projects";
+
+
