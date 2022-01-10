@@ -1,8 +1,10 @@
 /*--Variables--*/
 @import "./utils/variables";
 
+
 /*--Base--*/
 @import "./base/reset";
+
 
 /*--Cjmponents--*/
 @import "./components/modal";
@@ -10,7 +12,6 @@
 @import "./components/logo-footer";
 @import "./components/button-hero";
 @import "./components/modal-button";
-
 
 
 /*--Layout--*/
@@ -22,5 +23,3 @@
 @import "./layout/clients";
 @import "./layout/footer";
 @import "./layout/projects";
-
-

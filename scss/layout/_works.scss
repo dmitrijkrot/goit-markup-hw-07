@@ -4,7 +4,7 @@
   
   .works__title {
     font-weight: 700;
-    font-size: 36px;
+    font-size: $text-xxl;
     line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
@@ -37,12 +37,10 @@
   
   .works__text {
     font-weight: 700;
-    font-size: 14px;
+    font-size: $text-xs;
     line-height: 1.14;
     text-align: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--white-color);
   }
-
-  
